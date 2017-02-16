@@ -13,7 +13,7 @@
     "sync",
     "browsersync"
   ],
-  "author": "Praveen Puglia",
+  "author": "Nikitha Achhini",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.7"
